@@ -1,7 +1,6 @@
 ## Hi there 👋
-I’m Dharshini
 
-I’m a Computer Science undergrad who enjoys solving problems, building practical projects, and learning how things work under the hood.
+I’m Dharshini ,a Computer Science undergrad who enjoys solving problems, building practical projects, and learning how things work under the hood.
 
 What I’m currently working on
 
