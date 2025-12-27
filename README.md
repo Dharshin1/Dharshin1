@@ -1,41 +1,39 @@
 ## Hi there 👋
 I’m Dharshini
 
-I’m a **Computer Science undergrad** who enjoys solving problems, building practical projects, and learning how things work under the hood.
+I’m a Computer Science undergrad who enjoys solving problems, building practical projects, and learning how things work under the hood.
 
----
+🔭 What I’m currently working on
 
-## 🔭 What I’m currently working on
+Improving my DSA & problem-solving skills
 
-* Improving my **DSA & problem-solving skills**
-* Building **web and AI-based projects** that actually solve something useful
-* Exploring **machine learning & data science** through hands-on projects
-* Actively participating in **coding platforms & hackathons**
+Building web and AI-based projects that actually solve something useful
 
----
+Exploring machine learning & data science through hands-on projects
 
-## 🛠️ Tools & Technologies
+Actively participating in coding platforms & hackathons
 
-* **Languages:** Python, C++
-* **Web:** HTML, CSS, JavaScript
-* **Data & Databases:** SQL, MongoDB
-* **AI / ML:** Machine Learning basics, Data Science foundations
-* **Tools:** Git, GitHub, Figma (UI/UX), WordPress
+🛠️ Tools & Technologies
 
----
+Languages: Python, C++
 
-## 📫 How to reach me
+Web: HTML, CSS, JavaScript
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/dharshini-d89](https://www.linkedin.com/in/dharshini-d89)
+Data & Databases: SQL, MongoDB
 
-I’m open to **internships, collaborations, and learning opportunities** — feel free to reach out!
+AI / ML: Machine Learning basics, Data Science foundations
 
----
+Tools: Git, GitHub, Figma (UI/UX), WordPress
 
-## ✨ A bit more about me
+📫 How to reach me
 
-* Solved **450+ problems on LeetCode** *(Rating: 1506)*
-* Solved **700+ problems on CodeChef** *(Rating: 1116)*
-* Prefer **learning by building** over just theory
-* Curious, consistent, and always improving
+💼 LinkedIn: https://www.linkedin.com/in/dharshini-d89
+
+I’m open to internships, collaborations, and learning opportunities — feel free to reach out!
+
+✨ A bit more about me
+
+Prefer learning by building over just theory
+
+Curious, consistent, and always improving
 
