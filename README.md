@@ -1,56 +1,41 @@
 ## Hi there 👋
 I’m Dharshini
 
-I’m a Computer Science undergrad who enjoys solving problems, building practical projects, and learning how things work under the hood.
+I’m a **Computer Science undergrad** who enjoys solving problems, building practical projects, and learning how things work under the hood.
 
-🔭 What I’m currently working on
+---
 
-Improving my DSA & problem-solving skills
+## 🔭 What I’m currently working on
 
-Building web and AI-based projects that actually solve something useful
+* Improving my **DSA & problem-solving skills**
+* Building **web and AI-based projects** that actually solve something useful
+* Exploring **machine learning & data science** through hands-on projects
+* Actively participating in **coding platforms & hackathons**
 
-Exploring machine learning & data science through hands-on projects
+---
 
-Actively participating in coding platforms & hackathons
+## 🛠️ Tools & Technologies
 
-🛠️ Tools & Technologies I use
+* **Languages:** Python, C++
+* **Web:** HTML, CSS, JavaScript
+* **Data & Databases:** SQL, MongoDB
+* **AI / ML:** Machine Learning basics, Data Science foundations
+* **Tools:** Git, GitHub, Figma (UI/UX), WordPress
 
-Languages
+---
 
-Python, C++
+## 📫 How to reach me
 
-Web Development
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/dharshini-d89](https://www.linkedin.com/in/dharshini-d89)
 
-HTML, CSS, JavaScript
+I’m open to **internships, collaborations, and learning opportunities** — feel free to reach out!
 
-Data & Databases
+---
 
-SQL, MongoDB
+## ✨ A bit more about me
 
-AI / ML
+* Solved **450+ problems on LeetCode** *(Rating: 1506)*
+* Solved **700+ problems on CodeChef** *(Rating: 1116)*
+* Prefer **learning by building** over just theory
+* Curious, consistent, and always improving
 
-Machine Learning basics, Data Science foundations
-
-Other Tools
-
-Figma (UI/UX)
-
-WordPress
-
-Git & GitHub
-
-📫 How to reach me
-
-💼 LinkedIn: linkedin.com/in/dharshini-d89
-
-I’m open to internships, collaborations, and learning opportunities — feel free to reach out!
-
-✨ A bit more about me
-
-Solved 450+ problems on LeetCode (Rating: 1506)
-
-Solved 700+ problems on CodeChef (Rating: 1116)
-
-Prefer learning by building over just theory
-
-Curious, consistent, and always improving
