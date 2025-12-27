@@ -12,18 +12,6 @@ What I’m currently working on
 
 => Actively participating in coding platforms & hackathons
 
- Tools & Technologies
-
-Languages: Python, C++
-
-Web: HTML, CSS, JavaScript
-
-Data & Databases: SQL, MongoDB
-
-AI / ML: Machine Learning basics, Data Science foundations
-
-Tools: Git, GitHub, Figma (UI/UX), WordPress
-
 📫 How to reach me
 
 LinkedIn: https://www.linkedin.com/in/dharshini-d89
@@ -32,10 +20,6 @@ I’m open to internships, collaborations, and learning opportunities — feel f
 
 ✨ A bit more about me
 
-Solved 450+ problems on LeetCode (Rating: 1506)
-
-Solved 700+ problems on CodeChef (Rating: 1116)
-
-Prefer learning by building over just theory
+Prefers learning by building over just theory
 
 Curious, consistent, and always improving
