@@ -1,4 +1,4 @@
-# Hi, I'm Dharshini 👋
+# Hi, I'm Dharshini 
 
 ### Developer | Open Source Contributor | AI Enthusiast
 
@@ -63,27 +63,13 @@ My experience includes:
 **Software Engineering** · **Artificial Intelligence** · **AI Agents** · **Open Source** · **Web Development** · **Problem Solving**
 
 ---
+Let's Connect
 
-##  GitHub
+I'm always open to connecting with developers, open-source contributors, maintainers, and people working on interesting technology.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent" height="165"/>
-</p>
+<p align="left"> <a href="https://github.com/Dharshin1"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/dharshini-d89"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
----
-
-##  Connect With Me
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+<p align="center"> <b>Build • Contribute • Learn</b> </p>
 ---
 
 <p align="center">
